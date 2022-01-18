@@ -1,0 +1,17 @@
+/target/
+/**/target/*
+
+### IntelliJ IDEA ###
+**/.idea
+**/*.iws
+**/*.iml
+**/*.ipr
+/nbproject/
+
+**/target
+**/*.DS_Store
+*.prefs
+.project
+*.log
+__pycache__
+/**/github_demo
